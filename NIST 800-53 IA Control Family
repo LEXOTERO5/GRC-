@@ -1,0 +1,57 @@
+NIST 800-53 
+Interview Questions
+Target - IT Team 
+
+3.7  IA - Identification and Authentication 
+
+IA-1 
+What policies and procedures does your organization use to verify identity and to ensure secure authentication?
+
+IA-2
+How do you make sure only the right users access your systems and networks?
+
+IA-3 
+How do you make sure each device or system has a special way to be recognized on the network?
+
+IA-4
+Who is in charge of assigning usernames/hostnames to people or devices? How are they created ?
+
+What criteria or process do you use to ensure each username/hostname is unique?
+
+How do you ensure each ID is assigned to the correct individual/group/device?
+
+Is there a policy to prevent reusing ID’s? If so, how long are ID’s left inactive before being reused?
+
+IA-5
+How do you initially confirm one's identity before giving them a password or key?
+
+What process do you follow to create passwords/keys when first issued? And how do you ensure passwords are strong enough for their specific purpose?
+
+What do you do when someone loses or breaks their password/key? What is the process for revoking passwords/key?
+
+Do you change default credentials/settings before using them? How do you make sure this happens and how do you let people know?
+
+What steps do people and devices need to follow to keep passwords or keys safe?
+
+How often do you require people to change their authenticators, and how do you make them do it?
+
+What happens to shared passwords or keys when the people in a group or role change?
+
+IA-7
+How do devices/systems in your organization prove to the correct authority that they are trusted and allowed to communicate or use the system securely? 
+
+IA-8
+What is the process for handling non-organizational users?
+
+IA-9
+Are there any high-priority devices, systems, applications that allow anonymous or shared account access? Why are they not uniquely identified/verified?
+
+IA-10
+Do you have any extra authentication or re-authentication methods based on specific factors? 
+
+IA-11
+At what points are users required to re-authenticate, and how is this enforced from a technical standpoint?
+
+IA-12
+How do we verify we are giving credentials to the right person?
+
